@@ -4,7 +4,7 @@
 
 An interactive page that simulates short-term interest rate paths using the Vasicek model, so you can see how the model's parameters change the range of possible outcomes.
 
-**Live demo:** _add your link here_
+**Live demo:**  https://euandcosta07.github.io/Vasicek-Interest-Rate-Model-Simulation/
 
 ## Why I built it
 
